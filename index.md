@@ -1,4 +1,4 @@
-# Welcome to Geo123abc - a website for geoscientists.
+# Geo123abc - a website for geoscientists.
 
 Share experiences in studying Geology. Sharing is happiness.
 
