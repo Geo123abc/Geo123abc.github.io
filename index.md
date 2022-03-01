@@ -17,4 +17,4 @@ Share experiences in studying Geology. Sharing is happiness.
 
 [ResearchGate](https://www.researchgate.net/  )
 
-[X-MOL: 地球科学期刊](https://www.x-mol.com/paper/geo   "X-MOL: 地球科学期刊")
+[X-MOL](https://www.x-mol.com/paper/geo   "X-MOL: 地球科学期刊")
