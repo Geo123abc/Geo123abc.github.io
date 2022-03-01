@@ -2,9 +2,7 @@
 
 Share experiences in studying Geology. Sharing is happiness.
 
-
-## Sci-hub
-[https://www.sci-hub.pub/](https://www.sci-hub.pub/)
+## [sci-hub 总发布页](https://www.sci-hub.pub/)
 
 * [https://sci-hub.ee](https://sci-hub.ee/)
 * [https://sci-hub.se](https://sci-hub.se/)
@@ -15,7 +13,7 @@ Share experiences in studying Geology. Sharing is happiness.
 * [https://sci-hub.st](https://sci-hub.st)
 * [https://sci-hub.it.nf](https://sci-hub.it.nf)
 
+[ResearchGate](https://www.researchgate.net/  )
 
-[Home Feed | ResearchGate](  https://www.researchgate.net/  )    
-[地球科学, 热门类期刊, - X-MOL](  https://www.x-mol.com/paper/geo  )    
+[X-MOL: 地球科学期刊](https://www.x-mol.com/paper/geo   "X-MOL: 地球科学期刊")
 
